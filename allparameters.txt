@@ -1,0 +1,66 @@
+# Filter data
+Vfilter.txt
+
+# Spectra data: spectral type and visual magnitude
+-1.2
+0
+
+# Startpoint of spectra region of interest to analyse
+4000
+
+# Endpoint of spectra region of interest to analyse
+7000
+
+# Size of the array on which o interpolate spectra and filter, and the other data
+10000
+
+# Sky background noise
+skyspectrum.dat
+
+# Passing through the atmosphere effect data
+extatmos.dat
+
+# Bouncing around telescope effect data
+telrefl.dat
+
+# Pass band filtername            
+mkid_g.dat
+
+# Telescope fudge factor for other optics
+0.65
+
+# Exposure time in seconds
+600
+
+# Diameters in meters
+5.0
+
+# Seeing, FWHM in arcseconds 
+1.0
+
+# Detector quantum efficiency
+0.3
+
+# Start point for the detector region where quantum efficiency  is different from zero:"
+3500
+
+# End point for the detector region where quantum efficiency  is different from zero:        
+8500    
+
+# V Bessel filter
+VBessel.txt
+
+# u mag file
+umag.txt
+
+# g mag file
+gmag.txt
+
+# r mag file
+rmag.txt
+
+# i mag file
+imag.txt
+
+# z mag file
+zmag.txt
